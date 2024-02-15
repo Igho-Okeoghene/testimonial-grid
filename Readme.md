@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Igho-Okeoghene/testimonial-grid](https://github.com/Igho-Okeoghene/testimonial-grid)
+- Live Site URL: [https://igho-okeoghene.github.io/testimonial-grid/](https://igho-okeoghene.github.io/testimonial-grid/)
 
 ### Built with
 
